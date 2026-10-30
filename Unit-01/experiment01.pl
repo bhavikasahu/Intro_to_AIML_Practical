@@ -13,7 +13,7 @@ course(data_science).
 course(computer_science).
 
 % Students enrolled in courses
-enrolled(kishan, ai_ml).
+enrolled(ram, ai_ml).
 enrolled(rahul, data_science).
 enrolled(amit, computer_science).
 enrolled(priya, ai_ml).
